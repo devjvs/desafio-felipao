@@ -1,5 +1,7 @@
 # Desafios de Código
 
+--------------------------------------------------------------------------------------------------------------------------
+
 # Desafio 1 - Desenvolvimento de Classificador de Nível de Heróis
 
 Utilizei todos os conhecimentos lógicos ensinados no decorrer do módulo para desenvolver um classificador de nível de heróis, usando basicamente estruturas condicionais.
@@ -27,6 +29,8 @@ O objetivo principal se resume em criar uma variável para armazenar o nome e a 
 ## Saída do Código
 
 A saída do código deveria exibir uma mensagem: "O Herói de nome **{nome}** está no nível de **{
+
+--------------------------------------------------------------------------------------------------------------------------
 
 # Desafio 2 - Desenvolvimento da Calculadora de Partidas Ranqueadas
 
